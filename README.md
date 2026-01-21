@@ -9,9 +9,6 @@ Projeto desenvolvido em Python para a disciplina de Fundamentos e Técnicas Avan
 - Remover tarefas
 - Menu interativo no terminal
 
-## Tecnologias utilizadas
-- Python 3
-
 ## Como executar
 1. Clone o repositório
 2. Execute o arquivo `main.py`
